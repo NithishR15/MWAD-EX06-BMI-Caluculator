@@ -261,6 +261,7 @@ button {
 
 ## OUTPUT
 
+<img width="1916" height="1079" alt="Screenshot 2025-11-19 212621 - Copy" src="https://github.com/user-attachments/assets/f30f035a-8af4-406d-97a5-125041e46501" />
 
 
 
